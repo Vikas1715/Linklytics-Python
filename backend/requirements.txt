@@ -1,0 +1,18 @@
+fastapi==0.141.1
+uvicorn==0.52.4
+sqlalchemy==2.0.52
+pymysql==1.2.0
+pydantic==2.13.5
+email-validator==2.3.0
+python-dotenv==1.2.3
+pyjwt==2.13.0
+bcrypt==5.0.0
+cryptography==50.0.1
+
+# frontend
+streamlit==1.63.0
+requests==2.34.2
+
+# testing
+pytest==9.1.1
+httpx==0.28.1
